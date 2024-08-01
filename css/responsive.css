@@ -501,11 +501,11 @@
         Disclaimer Start
     ------------------------------ */
     #disclaimer p {
-        font-size: 11px;
+        font-size: 10px;
         letter-spacing: 0px;
         line-height: 15px;
-        padding: 10px 5px;
-        word-spacing: 1px;
+        padding: 10px 3px;
+        word-spacing: 0.6px;
     }
     /* ---------------------------
         Disclaimer End
@@ -516,6 +516,10 @@
     /* ---------------------------
         Footer Start
     --------------------------- */
+    .footer{
+        box-shadow: 0px 16px 80px 0px rgb(34 0 245 / 44%);
+    }
+
     .footer-txt h2 {
         font-size: 22px !important;
         line-height: 35px;
@@ -561,6 +565,25 @@
 
     section.footer-cp-content {
         overflow: hidden;
+    }
+
+    .page-content > p {
+        padding: 15px 0px;
+        line-height: 26px;
+        letter-spacing: 0.2px;
+        padding: 12px 0px;
+        margin-bottom: 0px;
+        font-size: 14px;
+    }
+
+    .footer-cp-content {
+        padding: 0px 0px 80px 0px;
+        margin-top: -20px;
+    }
+
+    .footer-txt{
+        padding: 40px 10px;
+        border-radius: 10px;
     }
 
     .footer-cp-bg {
