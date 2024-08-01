@@ -350,7 +350,7 @@ img.logo {
   position: relative;
   line-height: 26px;
   z-index: 11;
-  color: #566179;
+  color: #bfbfbf;
   word-spacing: 1px;
   margin-bottom: 0px !important;
   top: -8px;
@@ -472,16 +472,17 @@ a.bttn-dark {
 }
 
 .bttn-dark {
-  display:inline-block;
-  text-align:center;
-  width:100%;
-  padding:10px 0px;
-  border-radius:40px;
-  position:relative;
-  box-shadow: 0px 0px 10px 0px rgba(119, 68, 255, 0.7);
-  z-index:2;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  padding: 10px 0px;
+  border-radius: 40px;
+  position: relative;
+  box-shadow: 0px 0px 10px 0px rgba(118, 68, 255, 0.199);
+  z-index: 2;
   left: 18px;
   font-size: 15px;
+  background: radial-gradient(circle at 50.4% 50.5%, rgb(86, 66, 216) 0%, rgb(8, 19, 99) 90%);
   &:before {
     -webkit-transition:0.5s all ease;
     transition:0.5s all ease;
