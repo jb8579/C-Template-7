@@ -400,19 +400,19 @@ img.logo {
 .list-item .item-rat p,.list-item .item-play p{
   font-size:17px;
   font-weight: 700;
-  color: #566179;
+  color: #bfbfbf;
 }
 
 p.votes-sc {
   font-size: 16px;
   font-weight: 700;
-  color: #566179;
+  color: #bfbfbf;
   margin-bottom: 5px;
 }
 
 .list-item .item-sco {
   font-size: 43px;
-  color: #65718a;
+  color: #bfbfbf;
   font-weight: 800;
 }
 
@@ -459,7 +459,7 @@ p.votes-sc {
 }
 
 a.bttn-dark {
-  color:#c9c9c9;
+  color:#ebeaea;
   text-decoration:none;
   -webkit-transition:0.3s all ease;
   transition:0.3s ease all;
