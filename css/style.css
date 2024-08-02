@@ -295,7 +295,7 @@ body::before{
 .arrow-ribbon {
   background: rgb(102, 77, 255);
   color: #FFF;
-  padding: 3px 34px;
+  padding: 3px 24px;
   position: absolute;
   top: -26px;
   left: -12px;
@@ -305,6 +305,7 @@ body::before{
   font-weight: 500;
   text-shadow: 2px 2px #ffffff38;
   border-top-left-radius: 12px;
+  width: 130px;
 }
 
 .arrow-ribbon:before {
